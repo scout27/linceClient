@@ -119,3 +119,7 @@ func unchipr(a *string) uint64 {
 	res, _ := strconv.ParseUint(x, 10, 64)
 	return res
 }
+
+func main() {
+	return
+}
